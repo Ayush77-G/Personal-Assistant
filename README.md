@@ -6,11 +6,11 @@ My AI clone does it all!
 
 
 
-Welcome to Ai Assist , your trusty buddy in the digital world! Ever wish you had an assistant who could handle your WhatsApp messages and emails while you focus on coding the next big thing? Well, look no further! Kay Bot is here to make your life ridiculously convenient and, dare I say, a tad more hilarious!
+Welcome to Ai Assist , your trusty buddy in the digital world! Ever wish you had an assistant who could handle your WhatsApp messages and emails while you focus on coding the next big thing? Well, look no further! Ai Assist is here to make your life ridiculously convenient and, dare I say, a tad more hilarious!
 
 It's like having a personal assistant who never complains (Or asks for a raise)! 😂
 
-This project started with a simple idea: why not automate everything that makes my life easier? From summarizing news articles to crafting witty replies, Kay Bot does it all, thanks to the magic of OpenAI's GPT-3. And let's not forget the integration with WhatsApp and Gmail APIs.
+This project started with a simple idea: why not automate everything that makes my life easier? From summarizing news articles to crafting witty replies, Ai Assist does it all, thanks to the magic of OpenAI's GPT-3. And let's not forget the integration with WhatsApp and Gmail APIs.
 
 ### Oh, and speaking of hilarious moments, let me share one with you! You know those "kya khaya" messages from Mom that I usually leave on read? Well, Kay Bot thought it would be funny to reply with "not interested" because it assumed I leave those messages on read. I don't type it because, with the long menu options at the IIT mess (flex), it's easier to just call and tell her. Needless to say, Mom was furious and still refuses to believe that it was a bot! But hey, at least it's a good story to tell! 🫠
 
