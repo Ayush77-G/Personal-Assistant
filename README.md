@@ -2,8 +2,8 @@
 
 My AI clone does it all!
 
-![![AI Assistant](https://github.com/user-attachments/assets/31038725-4e67-49ac-b85c-3c0b100a17d8)
-Banner]
+![AI Assistant](https://github.com/user-attachments/assets/31038725-4e67-49ac-b85c-3c0b100a17d8)
+
 
 
 Welcome to Ai Assist , your trusty buddy in the digital world! Ever wish you had an assistant who could handle your WhatsApp messages and emails while you focus on coding the next big thing? Well, look no further! Kay Bot is here to make your life ridiculously convenient and, dare I say, a tad more hilarious!
